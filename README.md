@@ -1,0 +1,1 @@
+# ionic-barcode-Qrcode-reader
